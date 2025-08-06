@@ -1,4 +1,4 @@
-# character-separator
+# Character Separator
 
 > **Notice:** This project was developed as part of a **homework assignment** for CS 3110 at Iowa State University.
 
