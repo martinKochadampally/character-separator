@@ -101,16 +101,6 @@ Pair<List<Integer>, List<Integer>> whitespace = CharacterSeparator.findSeparatio
 
 ---
 
-## Complexity Analysis
-
-- **Graph construction**: `O(R × C)`  
-- **Dijkstra (twice)**: `O(R × C log(R × C))`  
-- **Overall runtime**: `O(R × C log(R × C))`
-
-Where `R` = rows (height), `C` = columns (width) of the image.
-
----
-
 ## Resources
 
 Test images are included in `src/main/java/edu/iastate/cs311/resources/`:
